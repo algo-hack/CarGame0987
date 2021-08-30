@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "car",
-"dataUrl": "WebGLGame_remote.data.unityweb",
-"wasmCodeUrl": "WebGLGame_remote.wasm.code.unityweb",
-"wasmFrameworkUrl": "WebGLGame_remote.wasm.framework.unityweb",
+"dataUrl": "WebGLCarGame.data.unityweb",
+"wasmCodeUrl": "WebGLCarGame.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGLCarGame.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
